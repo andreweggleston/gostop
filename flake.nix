@@ -43,6 +43,10 @@
             flask-cors
             pyjwt
             bcrypt
+            gunicorn
+            pandas
+            scipy
+            matplotlib
           ]
         );
 
